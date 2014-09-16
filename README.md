@@ -53,3 +53,5 @@ For comfortable working type the snippet shortcode ```/``` then press <kbd>Tab</
 
 <!-- ** changes end  -->
 ```
+### Install Snippets
+Recommended snippets files place in the folders ```snippets\comments-changes``` in ```\Data\Packages\User``` your SublimeText.
