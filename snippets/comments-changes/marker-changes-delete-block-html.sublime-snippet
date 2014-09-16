@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<!-- ** changes start  -->
-${0}
-<!-- ** changes end  -->
-]]></content>
-	<tabTrigger>/</tabTrigger>
-	<scope>text.html</scope>
-</snippet>
