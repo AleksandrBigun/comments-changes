@@ -5,5 +5,5 @@ ${0}
 <!-- ** changes end  -->
 ]]></content>
 	<tabTrigger>/</tabTrigger>
-	<scope>source.html</scope>
+	<scope>text.html</scope>
 </snippet>

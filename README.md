@@ -46,3 +46,10 @@ For comfortable working type the snippet shortcode ```/``` then press <kbd>Tab</
 ```
 /**//* new */
 ```
+
+#### marker-changes-delete-block-html
+```
+<!-- ** changes start  -->
+
+<!-- ** changes end  -->
+```
