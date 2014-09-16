@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+/**//* change start */
+${0}
+/**//* change end */
+]]></content>
+	<tabTrigger>/</tabTrigger>
+	<scope>source.css</scope>
+</snippet>
