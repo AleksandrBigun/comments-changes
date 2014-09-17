@@ -3,8 +3,8 @@ comments-changes
 
 Using comments for marking changes in HTML and CSS files.
 
-### Snippets SublimeText
-For comfortable working type the snippet shortcode ```/``` then press <kbd>Tab</kbd> and choose comments type to complete the snippet.
+### Snippets Sublime Text
+For comfortable working type the snippet shortcode ```/``` then press <kbd>Tab</kbd> and choose comments option to complete the snippet.
 
 
 #### marker-changes-block-css
@@ -54,4 +54,4 @@ For comfortable working type the snippet shortcode ```/``` then press <kbd>Tab</
 <!-- ** changes end  -->
 ```
 ### Install Snippets
-Recommended snippets files place in the folders ```snippets\comments-changes``` in ```\Data\Packages\User``` your SublimeText.
+Place recommended snippets files in the folders ```\snippets\comments-changes\``` in ```\Data\Packages\User\``` your Sublime Text.
