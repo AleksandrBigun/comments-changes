@@ -1,9 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[
-/**//* changes start */
-${0}
-/**//* changes end */
+/**//* new */
 ]]></content>
 	<tabTrigger>/</tabTrigger>
 	<scope>source.css</scope>

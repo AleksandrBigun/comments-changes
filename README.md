@@ -9,19 +9,21 @@ For comfortable working type the snippet shortcode ```/``` then press <kbd>Tab</
 ### Install Snippets
 Place recommended snippets files in the folders ```\snippets\comments-changes\``` in ```\Data\Packages\User\``` your Sublime Text.
 
-#### marker-changes-block-css
+#### block-changes-marker-changes-css
 ```
 /**//* change start */
 
 /**//* change end */
 ```
 
-#### marker-changes-css
+#### block-new-marker-changes-css
 ```
-/**/
+/**//* new start */
+
+/**//* new end */
 ```
 
-#### marker-changes-delete-block-css
+#### block-delete-marker-changes-css
 ```
 /**/
 /*
@@ -30,26 +32,17 @@ Place recommended snippets files in the folders ```\snippets\comments-changes\``
 /**//* delete */
 ```
 
-#### marker-changes-new-block-css
+#### line-changes-marker-changes-css
 ```
-/**//* new start */
-
-/**//* new end */
+/**/
 ```
 
-#### marker-changes-block-css
-```
-/**//* changes start */
-
-/**//* changes end */
-```
-
-#### marker-changes-new-string-css
+#### line-new-marker-changes-css
 ```
 /**//* new */
 ```
 
-#### marker-changes-delete-block-html
+#### block-delete-marker-changes-html
 ```
 <!-- ** changes start  -->
 
